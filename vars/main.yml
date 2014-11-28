@@ -24,6 +24,7 @@ homebrew_installed_packages:
   - wget
   - zeromq
   - zsh
+  - scala
 
 homebrew_taps:
   - caskroom/cask
