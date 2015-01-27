@@ -41,8 +41,10 @@ homebrew_cask_apps:
   - charles
   - divvy
   - dropbox
+  - evernote
   - firefox
   - flux
+  - flycut
   - go-server
   - go-agent
   - google-chrome
@@ -57,6 +59,7 @@ homebrew_cask_apps:
   - vagrant
   - virtualbox
   - vlc
+  - viber
   - wireshark
 
 npm_packages:
